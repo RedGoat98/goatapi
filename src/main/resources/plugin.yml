@@ -1,0 +1,4 @@
+name: GoatAPI
+version: ${project.version}
+main: ml.redgoat.goatapi.GoatAPI
+api-version: 1.16
